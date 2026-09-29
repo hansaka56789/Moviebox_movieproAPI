@@ -21,10 +21,19 @@ def slugify(text: str) -> str:
     return f"{s}-{h}" if s else h
 
 def clean_image(src):
-    if not src: return None
-    src = src.split(" ")[0].strip()
-    if src.startswith("//"): src = "https:" + src
-    return src if src.startswith("http") else None
+    if not src:
+        return None
+    # srcset එකෙන් පළවෙනි එක ගන්න
+    src = src.split(" ")[0].strip().split(",")[0].strip()
+
+    if src.startswith("//"):
+        src = "https:" + src
+    if src.startswith("/"):
+        src = BASE + src
+
+    if src.startswith("http"):
+        return src
+    return None
 
 def extract_year(card):
     text = card.get_text(" ", strip=True)
@@ -45,7 +54,15 @@ def parse_card_generic(soup):
             img = card.select_one("img")
             poster = None
             if img:
-                poster = clean_image(img.get("src") or img.get("data-src") or img.get("data-lazy-src"))
+                raw_src = (
+                    img.get("src") or
+                    img.get("data-src") or
+                    img.get("data-lazy-src") or
+                    img.get("data-original") or
+                    img.get("srcset") or
+                    img.get("data-srcset")
+                )
+                poster = clean_image(raw_src)
 
             href = card.get("href") if card.name == "a" else (card.select_one("a[href]").get("href") if card.select_one("a[href]") else None)
             if href and href.startswith("/"): href = BASE + href
@@ -57,9 +74,9 @@ def parse_card_generic(soup):
             movie_data = {
                 "id": movie_id,
                 "title": title,
-                "image": poster, # poster එක
+                "image": poster,
                 "year": extract_year(card),
-                "page_url": href, # legal page url විතරයි
+                "page_url": href,
                 "quality": ["360p", "720p", "1080p"]
             }
             items.append(movie_data)
@@ -81,6 +98,9 @@ def scrape_page(path: str, section: str):
             item["section"] = section
             unique.append(item)
     print(f" -> {len(unique)} items")
+    # debug
+    if unique:
+        print(f" Sample image: {unique[0]['image']}")
     return unique
 
 def scrape_all():
