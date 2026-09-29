@@ -50,12 +50,17 @@ def parse_card_generic(soup):
         if href and href.startswith("/"): href = BASE + href
 
         items.append({
-            "id": slugify(title),
-            "title": title,
-            "title_clean": title,
-            "poster": poster,
-            "url": href,
-            "genres": [],
+            # oyage loop eka athule - movie dict eka hadana thana
+movie_data = {
+    "id": movie_id,
+    "title": title,
+    "image": img_url,
+    "year": year,
+    # me tika aluthen add karanna
+    "download_url": f"https://h5.aoneroom.com/download/{movie_id}", # example
+    "stream_url": stream_url, # oya scrape karana m3u8 link eka
+    "quality": ["360p", "720p", "1080p"]
+        
         })
     return items
 
