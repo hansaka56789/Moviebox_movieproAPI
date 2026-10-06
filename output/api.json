@@ -1,8 +1,8 @@
 {
   "success": true,
   "source": "https://themoviebox.xyz",
-  "generated_at": "2026-10-06T03:45:20.596394+00:00",
-  "total": 28,
+  "generated_at": "2026-10-06T12:23:29.734910+00:00",
+  "total": 29,
   "results": [
     {
       "id": "download-app-view-more-1461d17933",
@@ -114,6 +114,19 @@
       "image": null,
       "year": null,
       "page_url": null,
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "nollywood-movie-more-beae582a6a",
+      "title": "Nollywood Movie More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/owu8vh6DB?id=8216283712045280&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -242,7 +255,7 @@
       "id": "coming-soon-24900caac7",
       "title": "Coming Soon",
       "image": null,
-      "year": 1960,
+      "year": 2010,
       "page_url": "https://themoviebox.xyz/detail/carrie-MwWP74PRLz1",
       "quality": [
         "360p",
