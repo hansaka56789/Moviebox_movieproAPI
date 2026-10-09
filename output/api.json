@@ -1,8 +1,8 @@
 {
   "success": true,
   "source": "https://themoviebox.xyz",
-  "generated_at": "2026-10-08T22:37:49.611536+00:00",
-  "total": 18,
+  "generated_at": "2026-10-09T03:34:05.589837+00:00",
+  "total": 29,
   "results": [
     {
       "id": "download-app-view-more-1461d17933",
@@ -18,11 +18,11 @@
       "section": "home"
     },
     {
-      "id": "hot-short-tv-more-705e132590",
-      "title": "🔥Hot Short TV More",
+      "id": "popular-series-more-9ba938571d",
+      "title": "Popular Series More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/yPt5iWYfGD?id=537172945375056936&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/eJvhCT8w3t1?id=1232643093049001320&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -31,11 +31,11 @@
       "section": "home"
     },
     {
-      "id": "trending-now-more-dc3d6c2fa0",
-      "title": "🔥Trending Now More",
+      "id": "popular-movie-more-2560606528",
+      "title": "Popular Movie More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/oC7tWucbDn5?id=4516404531735022304&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/8WtKSYJVEb1?id=997144265920760504&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -122,11 +122,11 @@
       "section": "home"
     },
     {
-      "id": "free-now-more-d34d48ad1d",
-      "title": "🆓Free Now! More",
+      "id": "nollywood-movie-more-beae582a6a",
+      "title": "Nollywood Movie More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/GrVd7hzImm?id=302776341072596032&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/owu8vh6DB?id=8216283712045280&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -135,24 +135,11 @@
       "section": "home"
     },
     {
-      "id": "cinema-more-b955d61a35",
-      "title": "🔥Cinema More",
-      "image": null,
-      "year": 1947,
-      "page_url": "https://themoviebox.xyz/ranking-list/yfPrzpXpwM6?id=5692654647815587592&page_from=more_SUBJECTS_MOVIE",
-      "quality": [
-        "360p",
-        "720p",
-        "1080p"
-      ],
-      "section": "home"
-    },
-    {
-      "id": "bollywood-more-e19c63646c",
-      "title": "Bollywood More",
+      "id": "adult-animation-more-2b0382800b",
+      "title": "Adult Animation More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/g862TVthEu?id=414907768299210008&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/ss3lpHWvgJ3?id=3130672938110833528&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -161,11 +148,11 @@
       "section": "home"
     },
     {
-      "id": "south-indian-more-5ae153a2a3",
-      "title": "South Indian More",
+      "id": "epic-fantasy-more-5d5e838643",
+      "title": "Epic Fantasy More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/ggQ4Pxaz7B4?id=3859721901924910512&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/69DioFL9jB8?id=7219449993227633120&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -174,11 +161,11 @@
       "section": "home"
     },
     {
-      "id": "hollywood-more-a037383367",
-      "title": "Hollywood More",
+      "id": "sitcom-more-81fe5d09aa",
+      "title": "Sitcom More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/C7Qvl1OQpy9?id=8019599703232971616&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/eT4hFwF9Zsa?id=8785384881686725944&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -187,11 +174,11 @@
       "section": "home"
     },
     {
-      "id": "indian-drama-more-a2b15713d4",
-      "title": "Indian Drama More",
+      "id": "teen-romance-more-4e8a4f3ac5",
+      "title": "Teen Romance More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/2RW9liZCcQ5?id=4903182713986896328&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/O9WkQQdB152?id=1746633591129342248&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -200,11 +187,11 @@
       "section": "home"
     },
     {
-      "id": "top-anime-more-ac058d457d",
-      "title": "Top Anime More",
+      "id": "superhero-series-more-4f211b9261",
+      "title": "Superhero Series More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/U6n7BTbz43a?id=8434602210994128512&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/Mqd1BUCCyI8?id=7317586330186645624&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -213,24 +200,180 @@
       "section": "home"
     },
     {
-      "id": "best-asian-series-more-0e3a656645",
-      "title": "Best Asian Series More",
-      "image": null,
-      "year": 1988,
-      "page_url": "https://themoviebox.xyz/ranking-list/CVJjWLLfYl2?id=1976033493293449744&page_from=more_SUBJECTS_MOVIE",
-      "quality": [
-        "360p",
-        "720p",
-        "1080p"
-      ],
-      "section": "home"
-    },
-    {
-      "id": "western-tv-more-e3ad7301da",
-      "title": "Western TV More",
+      "id": "bl-story-more-5c45c79bd8",
+      "title": "BL Story More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/aP5hxVLKSE4?id=3910636007619709856&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/EMCZqYXHRAa?id=8892055635953697752&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "bet-more-e0456de887",
+      "title": "Bet+ More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/CrWDuWgvps4?id=3741804521853438336&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "action-thriller-more-94bced4698",
+      "title": "Action&Thriller More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/GbnjaUK4wj8?id=6978603205429526968&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "gangster-more-640f0f31fc",
+      "title": "Gangster More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/61z1g0mbsw6?id=5475136475249497544&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "coming-soon-24900caac7",
+      "title": "Coming Soon",
+      "image": null,
+      "year": 2061,
+      "page_url": "https://themoviebox.xyz/detail/one-hundred-days-of-lies-Mw4TijbCJX6",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "teen-fantasy-more-3be593573c",
+      "title": "Teen Fantasy More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/YeIMX4QOeg8?id=6934224112055632896&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "k-drama-more-b760526281",
+      "title": "K-Drama More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/KNhvsW7OBd5?id=4380734070238626200&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "c-drama-more-aa80319223",
+      "title": "C-Drama More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/KPAZTvQMPc?id=173752404280836544&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "anime-english-dubbed-more-bfb9355931",
+      "title": "Anime[English Dubbed] More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/0UA0warzA4?id=62133389738001440&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "action-movies-more-0114fc4f8f",
+      "title": "Action Movies More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/4op2RuDXYE8?id=7269188813871016696&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "horror-movies-more-8514a3ded8",
+      "title": "Horror Movies More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/O3nXxsxHoga?id=8614980535946986176&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "hot-short-tv-more-705e132590",
+      "title": "🔥Hot Short TV More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/OhEcLeugsl9?id=7844144696607102784&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "must-watch-black-shows-more-4a5341d507",
+      "title": "Must-watch Black Shows More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/8Y0h9BbEi8a?id=8505361996374835640&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
+      "id": "romance-more-c6619571a3",
+      "title": "💓Romance 💓 More",
+      "image": null,
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/uXkgMCFkaTa?id=9139789616411735224&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
