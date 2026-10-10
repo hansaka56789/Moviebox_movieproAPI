@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://themoviebox.xyz",
-  "generated_at": "2026-10-10T03:14:51.715063+00:00",
+  "generated_at": "2026-10-10T11:33:04.829729+00:00",
   "total": 18,
   "results": [
     {
@@ -18,11 +18,11 @@
       "section": "home"
     },
     {
-      "id": "trending-now-more-dc3d6c2fa0",
-      "title": "🔥Trending Now More",
+      "id": "hot-short-tv-more-705e132590",
+      "title": "🔥Hot Short TV More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/gA8zZqlP3ga?id=8610422883619422240&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/yPt5iWYfGD?id=537172945375056936&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -31,11 +31,11 @@
       "section": "home"
     },
     {
-      "id": "hot-short-tv-more-705e132590",
-      "title": "🔥Hot Short TV More",
+      "id": "trending-now-more-dc3d6c2fa0",
+      "title": "🔥Trending Now More",
       "image": null,
       "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/eL6uk3fbsY4?id=4175575772020854200&page_from=more_SUBJECTS_MOVIE",
+      "page_url": "https://themoviebox.xyz/ranking-list/oC7tWucbDn5?id=4516404531735022304&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -122,6 +122,19 @@
       "section": "home"
     },
     {
+      "id": "free-now-more-d34d48ad1d",
+      "title": "🆓Free Now! More",
+      "image": null,
+      "year": 1988,
+      "page_url": "https://themoviebox.xyz/ranking-list/GrVd7hzImm?id=302776341072596032&page_from=more_SUBJECTS_MOVIE",
+      "quality": [
+        "360p",
+        "720p",
+        "1080p"
+      ],
+      "section": "home"
+    },
+    {
       "id": "cinema-more-b955d61a35",
       "title": "🔥Cinema More",
       "image": null,
@@ -174,11 +187,11 @@
       "section": "home"
     },
     {
-      "id": "top-series-more-b286a24e91",
-      "title": "Top Series More",
+      "id": "indian-drama-more-a2b15713d4",
+      "title": "Indian Drama More",
       "image": null,
-      "year": 1988,
-      "page_url": "https://themoviebox.xyz/ranking-list/WtQIkjv3aG6?id=5606549574572819920&page_from=more_SUBJECTS_MOVIE",
+      "year": null,
+      "page_url": "https://themoviebox.xyz/ranking-list/2RW9liZCcQ5?id=4903182713986896328&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
@@ -187,8 +200,8 @@
       "section": "home"
     },
     {
-      "id": "top-anime-series-more-5f097affd7",
-      "title": "Top Anime Series More",
+      "id": "top-anime-more-ac058d457d",
+      "title": "Top Anime More",
       "image": null,
       "year": null,
       "page_url": "https://themoviebox.xyz/ranking-list/U6n7BTbz43a?id=8434602210994128512&page_from=more_SUBJECTS_MOVIE",
@@ -200,24 +213,11 @@
       "section": "home"
     },
     {
-      "id": "best-asian-dramas-more-9faf326db9",
-      "title": "Best Asian Dramas More",
+      "id": "best-asian-series-more-0e3a656645",
+      "title": "Best Asian Series More",
       "image": null,
       "year": 1988,
       "page_url": "https://themoviebox.xyz/ranking-list/CVJjWLLfYl2?id=1976033493293449744&page_from=more_SUBJECTS_MOVIE",
-      "quality": [
-        "360p",
-        "720p",
-        "1080p"
-      ],
-      "section": "home"
-    },
-    {
-      "id": "indian-dramas-more-ec7e8352c4",
-      "title": "Indian Dramas More",
-      "image": null,
-      "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/2RW9liZCcQ5?id=4903182713986896328&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
