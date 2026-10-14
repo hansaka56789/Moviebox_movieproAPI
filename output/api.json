@@ -1,8 +1,8 @@
 {
   "success": true,
   "source": "https://themoviebox.xyz",
-  "generated_at": "2026-10-14T02:36:29.765480+00:00",
-  "total": 29,
+  "generated_at": "2026-10-14T10:49:14.987379+00:00",
+  "total": 28,
   "results": [
     {
       "id": "download-app-view-more-1461d17933",
@@ -114,19 +114,6 @@
       "image": null,
       "year": null,
       "page_url": null,
-      "quality": [
-        "360p",
-        "720p",
-        "1080p"
-      ],
-      "section": "home"
-    },
-    {
-      "id": "nollywood-movie-more-beae582a6a",
-      "title": "Nollywood Movie More",
-      "image": null,
-      "year": null,
-      "page_url": "https://themoviebox.xyz/ranking-list/owu8vh6DB?id=8216283712045280&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
         "720p",
