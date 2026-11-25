@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://themoviebox.xyz",
-  "generated_at": "2026-11-25T01:43:24.928974+00:00",
+  "generated_at": "2026-11-25T16:25:14.235290+00:00",
   "total": 25,
   "results": [
     {
@@ -21,7 +21,7 @@
       "id": "popular-series-more-9ba938571d",
       "title": "Popular Series More",
       "image": null,
-      "year": null,
+      "year": 2099,
       "page_url": "https://themoviebox.xyz/ranking-list/eJvhCT8w3t1?id=1232643093049001320&page_from=more_SUBJECTS_MOVIE",
       "quality": [
         "360p",
@@ -203,7 +203,7 @@
       "id": "coming-soon-24900caac7",
       "title": "Coming Soon",
       "image": null,
-      "year": null,
+      "year": 1963,
       "page_url": "https://themoviebox.xyz/detail/fool-night-g6noj6Cmb5",
       "quality": [
         "360p",
