@@ -1,7 +1,7 @@
 {
   "success": true,
   "source": "https://themoviebox.xyz",
-  "generated_at": "2026-11-28T00:49:35.620070+00:00",
+  "generated_at": "2026-11-28T14:43:00.891992+00:00",
   "total": 25,
   "results": [
     {
@@ -203,7 +203,7 @@
       "id": "coming-soon-24900caac7",
       "title": "Coming Soon",
       "image": null,
-      "year": 1982,
+      "year": null,
       "page_url": "https://themoviebox.xyz/detail/whalefall-m1hYZph2Gf4",
       "quality": [
         "360p",
